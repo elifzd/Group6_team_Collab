@@ -6,6 +6,8 @@ public class FirstClass {
 
         System.out.println("Hello world");
 
+        System.out.println("Second message");
+
     }
 
 }
