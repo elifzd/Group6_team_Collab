@@ -8,6 +8,8 @@ public class FirstClass {
 
         System.out.println("Second message");
 
+        System.out.println("Third message");
+
     }
 
 }
